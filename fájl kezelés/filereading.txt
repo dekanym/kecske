@@ -1,0 +1,5 @@
+firstName, lastName, email, zipCode, city
+John, Doe, john.doe@doe.co.com, 90035, Bewerly Hills
+Jane, Doe, jane.doe@doe.co.com, 90035, Bewerly Hills
+Lucky, Luke, lucky.luke@dupuis.com, 1958, Morris
+Asterix, the Gaul, asterix@dargaud.fr, 1959, Goscinny
